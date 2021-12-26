@@ -1,0 +1,5 @@
+1. Sesuaikan port,username,password,namadb di file mysql.go
+
+
+Link postman
+https://www.getpostman.com/collections/3fb896dc8053cd38dd3e
